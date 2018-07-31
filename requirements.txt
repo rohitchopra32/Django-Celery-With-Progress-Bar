@@ -1,0 +1,13 @@
+amqp==2.3.2
+billiard==3.5.0.4
+celery==4.2.1
+cffi==1.11.5
+Django==2.0.7
+kombu==4.2.1
+numpy==1.15.0
+pycparser==2.18
+pytz==2018.5
+rabbitmq==0.2.0
+redis==2.10.6
+scipy==1.1.0
+vine==1.1.4
